@@ -9,4 +9,4 @@ spring:
       password:  '{cipher}a52b286c66535f5d0aea8468a08b37ce2d1e0d7fa6fdab3f2f80e84e24aa80bb'
 
 greeting:
-  message: Hello World!
+  message: Hiya folks!
