@@ -1,3 +1,4 @@
-tacocloud
-  order
+tacocloud:
+  order:
     max: 1000
+    
